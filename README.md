@@ -1,6 +1,12 @@
 # Ex-04-Django-Models
-# AIM : 
+# STUDENT DETAILS :
+Name : K.Santhan Kumar
 
+Department : AIML
+
+Reference N0 : 23004568
+# AIM : 
+Display user's details using template-view-model in django framework.
 # STEP 1 :
 Create django project and app using the following commands:
 
@@ -112,5 +118,7 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
+![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-04-Django-Models/assets/80164014/9e69200d-021d-45ec-86a0-9ad9883fdc45)
 
 # RESULT : 
+User Profile displayed successfully using django framework.
