@@ -121,4 +121,4 @@ And  in the user_profile template page you can see the profile page of the user.
 ![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-04-Django-Models/assets/80164014/9e69200d-021d-45ec-86a0-9ad9883fdc45)
 
 # RESULT : 
-User Profile displayed successfully using django framework.
+User Profile displayed successfully using django Models.
