@@ -6,7 +6,7 @@ Department : AIML
 
 Reference N0 : 23004568
 # AIM : 
-Display user's details using template-view-model in django framework.
+Display user profile data using template-view-model in django framework.
 # STEP 1 :
 Create django project and app using the following commands:
 
